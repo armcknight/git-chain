@@ -1,3 +1,5 @@
+Test chain edit 1
+
 # git-chain
 
 > Tool for rebasing a chain of local git branches.
