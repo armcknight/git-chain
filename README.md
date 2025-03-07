@@ -1,5 +1,6 @@
 Test chain edit 1
 Test chain edit 2
+Test chain edit 3
 
 # git-chain
 
